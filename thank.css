@@ -1,0 +1,98 @@
+/* Extra small devices (phones, 600px and down) */
+
+@media only screen and (max-width: 600px) {
+    .thank {
+        width: 70%;
+        margin: auto;
+        margin-top: 45%;
+    }
+    .para1 {
+        text-align: center;
+        font-size: 45px;
+    }
+    .para2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -10%;
+    }
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+
+@media only screen and (min-width: 600px) {
+    .thank {
+        width: 30%;
+        margin: auto;
+        margin-top: 18%;
+    }
+    .para1 {
+        text-align: center;
+        font-size: 45px;
+    }
+    .para2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -10%;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media only screen and (min-width: 768px) {
+    .thank {
+        width: 30%;
+        margin: auto;
+        margin-top: 18%;
+    }
+    .para1 {
+        text-align: center;
+        font-size: 45px;
+    }
+    .para2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -10%;
+    }
+}
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media only screen and (min-width: 992px) {
+    .thank {
+        width: 30%;
+        margin: auto;
+        margin-top: 18%;
+    }
+    .para1 {
+        text-align: center;
+        font-size: 45px;
+    }
+    .para2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -10%;
+    }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+
+@media only screen and (min-width: 1200px) {
+    .thank {
+        width: 30%;
+        margin: auto;
+        margin-top: 16%;
+    }
+    .para1 {
+        text-align: center;
+        font-size: 45px;
+    }
+    .para2 {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -5%;
+    }
+}
